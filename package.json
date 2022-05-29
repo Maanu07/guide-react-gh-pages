@@ -1,19 +1,19 @@
 {
-  "homepage": "https://github.com/Maanu07/guide-react-gh-pages.git",
+  "homepage": "https://github.com/Maanu07/guide-react-gh-pages",
   "name": "demo-react-gh-pages",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "gh-pages": "4.0.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-scripts": "4.0.0"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
-    "typescript": "4.1.3"
+    "typescript": "3.4.1",
+    "gh-pages": "4.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
